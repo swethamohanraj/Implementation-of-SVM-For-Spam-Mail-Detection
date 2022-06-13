@@ -44,23 +44,23 @@ accuracy
 ```
 
 ## Output:
-Data Head:
+### Data Head:
 ![image](https://user-images.githubusercontent.com/94228215/173282598-1e21b059-1bbe-46fc-b18b-411cdf4cd443.png)
 
 
-Data Info:
+### Data Info:
 ![image](https://user-images.githubusercontent.com/94228215/173282615-fdc41679-2da7-4757-a970-2931bcb295d8.png)
 
 
-Data isnull():
+### Data isnull():
 ![image](https://user-images.githubusercontent.com/94228215/173282648-0446783c-06bd-4c12-a581-3eb7f78f72f6.png)
 
 
-y_pred:
+### y_pred:
 ![image](https://user-images.githubusercontent.com/94228215/173282671-584d38b3-8e47-4ce9-adc0-df8e8d312f50.png)
 
 
-Accuracy:
+### Accuracy:
 ![image](https://user-images.githubusercontent.com/94228215/173282689-2d49d802-b9d9-4949-ba6f-bf345959b742.png)
 
 
